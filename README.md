@@ -48,7 +48,8 @@ TABULAR COLUMN
 Rectifier without filter
 
 Rectifier with filter
-![fw beee with](https://github.com/user-attachments/assets/4f647fb7-b79b-4040-bca6-9b2ee5bf23f2)
+![fw beee tab](https://github.com/user-attachments/assets/18d9aff8-2382-4b84-92f5-701d27dec806)
+
 
 WAVEFORM:
 <img width="1920" height="1080" alt="half wave exp 4 beee" src="https://github.com/user-attachments/assets/de944a35-6f17-4a61-bc3e-50953b71edea" />
