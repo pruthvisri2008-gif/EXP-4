@@ -35,17 +35,24 @@ PROCEDURE:
 4.   Repeat the above steps for full wave and bridge rectifiers.
 
 CIRCUIT DIAGRAMS
-
 Half wave rectifier with filter:
+![hw beee without ](https://github.com/user-attachments/assets/bce39ba5-e4d6-42f1-921e-a65067c8fffc)
+![hw beee with](https://github.com/user-attachments/assets/dd4930b3-9f6c-426b-a62a-a6adf7a95f1a)
 
 Bridge rectifier with filter:
+![fw beee without](https://github.com/user-attachments/assets/ae5ac76c-1941-4a68-91c3-68191befde3e)
+![fw beee with](https://github.com/user-attachments/assets/c270fadf-f6ef-4693-9bc1-7964b739f2ef)
+
 
 TABULAR COLUMN
 Rectifier without filter
-TABULAR COLUMN
+
 Rectifier with filter
+![fw beee with](https://github.com/user-attachments/assets/4f647fb7-b79b-4040-bca6-9b2ee5bf23f2)
 
 WAVEFORM:
+<img width="1920" height="1080" alt="half wave exp 4 beee" src="https://github.com/user-attachments/assets/de944a35-6f17-4a61-bc3e-50953b71edea" />
+<img width="1920" height="1080" alt="full wave exp 4 beee" src="https://github.com/user-attachments/assets/133d7d33-3f83-4170-a54f-b3a2168f4ba2" />
 
 
 RESULT:
