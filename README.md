@@ -46,6 +46,7 @@ Bridge rectifier with filter:
 
 TABULAR COLUMN
 Rectifier without filter
+![hw beee tab](https://github.com/user-attachments/assets/d8a57cbc-cf18-4cab-b15b-667d8df432cc)
 
 Rectifier with filter
 ![fw beee tab](https://github.com/user-attachments/assets/18d9aff8-2382-4b84-92f5-701d27dec806)
